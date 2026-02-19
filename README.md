@@ -1,4 +1,4 @@
-# coding-project-template# 📚 Express Book Reviews API
+# 📚 Express Book Reviews API
 
 A RESTful back-end application for an online bookstore, built with **Node.js**, **Express.js**, and **JWT authentication**. This is the final project for the IBM Back-End Development with Node & Express course.
 
